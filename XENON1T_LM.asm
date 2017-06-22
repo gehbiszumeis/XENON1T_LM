@@ -14,6 +14,7 @@
 ;   University: Institut für Physik,					*
 ;		Johannes Gutenberg-Universität Mainz			*
 ;   Email:  geisch@uni-mainz.de, christopher.geis@gmx.de		*
+;   License: GNU General Public License V3.0				*
 ;                                                                       *
 ;************************************************************************
 ;   History:								*
