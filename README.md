@@ -5,4 +5,4 @@ Copyright (c) 2017, Christopher Geis (ChG, geisch).
 
 This project is licensed under the terms of the [GNU General Public License v3.0](LICENSE).
 
-Contact: christopher.geis@gmx.de
+Contact: gehbiszumeis@gmx.de
